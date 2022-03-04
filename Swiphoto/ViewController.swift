@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Swiphoto
 //
-//  Created by Joao Pedro Aquino De Queiroz on 03/03/22.
+//  Created by Joao Pedro Aquino  on 03/03/22.
 //
 
 import UIKit
